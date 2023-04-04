@@ -6,7 +6,7 @@ from datetime import datetime
 from alpha_vantage.fundamentaldata import FundamentalData
 import streamlit as st
 # Setting your API key
-key = "6F52R6LXSFBMDURY"
+key = "XXXXXXXXXXXXXY" #signup at https://alphavantage.co and paste your alpha_vantage APIKey here 
 
 # Creating a FundamentalData object
 fd = FundamentalData(key)
